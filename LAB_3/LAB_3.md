@@ -139,5 +139,5 @@ The 4-bit Ripple Carry Adder was successfully designed and simulated. The output
 
 ## Author
 
-Devam  
+Harsh Kumar  
 Course: Computer Organization and Architecture Lab

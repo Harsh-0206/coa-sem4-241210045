@@ -167,5 +167,5 @@ The experiment demonstrates:
 
 ## Author
 
-Devam  
+Harsh Kumar  
 Course: Computer Organization and Architecture Lab
